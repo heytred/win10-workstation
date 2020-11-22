@@ -5,7 +5,7 @@ This is the script for Tyler Owens to setup a new dev workstation. Feel free to 
 - clean installation of Windows 10 Pro v2004 en-us.
 
 ## Usage
-Download latest script here: https://raw.githubusercontent.com/heytred/win10-workstation/main/workstation.ps1
+Download latest script here: https://raw.githubusercontent.com/heytred/win10-workstation/main/install.ps1
 
 ### Choco Packages Installed
     - Slack
